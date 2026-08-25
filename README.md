@@ -1,4 +1,3 @@
-# Image-recongition
 # Image Recognition System
 
 A Python-based image recognition application that uses a **pre-trained ResNet50 deep learning model** to classify images. The application allows users to select an image from their computer and predicts the most likely object present in the image along with its confidence score.
